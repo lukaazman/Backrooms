@@ -36,7 +36,7 @@ This game was created solo in Unreal Engine 4 using Blueprints and free assets.
 
 ---
 
-### 🎈 **Level 4** – *The Deception*  
+### 🎈 **Level 4**
 ![Level 4](images/level4.jpg)  
 
 ---
