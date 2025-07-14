@@ -1,5 +1,5 @@
 # 🟨 Backrooms – UE4 Horror Game  
-*Graduation Project (2022/2023) by Luka Ažman*
+*Graduation Project (2022/2023)*
 
 Inspired by the Backrooms internet lore: endless yellow halls, strange entities, and the illusion of escape.  
 This game was created solo in Unreal Engine 4 using Blueprints and free assets.
