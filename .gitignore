@@ -1,0 +1,15 @@
+# Ignore Unreal Engine build artifacts
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDE files
+*.VC.db
+*.sdf
+*.opensdf
+.vscode/
+
+# Optional logs & temp
+*.log
+*.tmp
