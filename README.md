@@ -16,28 +16,14 @@ This game was created solo in Unreal Engine 4 using Blueprints and free assets.
 
 ## 🔽 Levels Breakdown
 
-### 🟡 **Level 0**  
-![Level 0](images/level0.jpg)
+| Level                                | Preview                       |
+| ------------------------------------ | ----------------------------- |
+| **Level 0** — *The Lobby*            | ![Level 0](images/level0.jpg) |
+| **Level 1** — *Parking Zone*         | ![Level 1](images/level1.jpg) |
+| **Level 2** — *Pipe Dream*           | ![Level 2](images/level2.jpg) |
+| **Level 3** — *Electrical Station*   | ![Level 3](images/level3.jpg) |
+| **Level 4** — *The Abandoned Office* | ![Level 4](images/level4.jpg) |
 
----
-
-### 🔴 **Level 1**  
-![Level 1](images/level1.jpg)
-
----
-
-### 🔥 **Level 2**  
-![Level 2](images/level2.jpg)
-
----
-
-### ⚫ **Level 3**  
-![Level 3](images/level3.jpg)
-
----
-
-### 🎈 **Level 4**
-![Level 4](images/level4.jpg)  
 
 ---
 
