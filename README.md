@@ -31,7 +31,7 @@ This game was created solo in Unreal Engine 4 using Blueprints and free assets.
 
 ## 🛠️ Technologies & Contributions
 
-- Engine: **Unreal Engine 4** (Blueprints only)
+- Engine: Originally: **Unreal Engine 4**, Now: **Unreal Engine 5.3** (Blueprints only)
 - Assets: Free models (Sketchfab), Audio (Freesound)
 - Tools: Photoshop for graphic design
 - Solo-developed (gameplay, logic, level design)
