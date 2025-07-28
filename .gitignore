@@ -1,15 +1,66 @@
-# Ignore Unreal Engine build artifacts
+# =========================
+# Unreal Engine Project GitIgnore
+# =========================
+
+# Engine-generated folders
+Binaries/
 Build/
 DerivedDataCache/
 Intermediate/
 Saved/
-
-# IDE files
 *.VC.db
 *.sdf
 *.opensdf
-.vscode/
-
-# Optional logs & temp
 *.log
 *.tmp
+
+# IDE-specific
+.vscode/
+.vs/
+*.suo
+*.sln
+
+# Xcode (Mac)
+*.xcodeproj
+*.xcworkspace
+
+# Visual Studio Code workspace settings
+.vscode/
+
+# Ignore project-specific intermediate binaries
+Plugins/*/Intermediate/
+Plugins/*/Binaries/
+
+# Precompiled headers and compiled objects
+*.pch
+*.gch
+*.obj
+*.o
+*.so
+*.dll
+*.exe
+*.app
+*.dylib
+*.out
+
+# Source art (if not used in the project directly)
+SourceArt/**/*.png
+SourceArt/**/*.tga
+
+# Map built data (Editor cache)
+*_BuiltData.uasset
+
+# Include PakBlacklist files only
+!Build/*/PakBlacklist*.txt
+!Build/**/*.ico
+
+# Optional: ignore crash reports and diagnostics
+*.dmp
+*.pid
+
+# Ignore project-specific backups or autosaves
+Autosaves/
+Backup/
+
+# macOS system files
+.DS_Store
