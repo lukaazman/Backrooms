@@ -4,6 +4,8 @@
 Inspired by the Backrooms internet lore: endless yellow halls, strange entities, and the illusion of escape.  
 This game was created solo in Unreal Engine 4 using Blueprints and free assets.
 
+*The current version on the repository is optimized for Unreal Engine 5.3, as newer versions introduce issues with Emissive lighting.*
+
 ---
 
 ## 📜 Story Summary
