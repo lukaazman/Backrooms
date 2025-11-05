@@ -40,4 +40,4 @@ This game was created solo in Unreal Engine 4 using Blueprints and free assets.
 
 ## Final Notes
 
-This game was a **non-commercial student project**. It was never released due to use of unlicensed assets, but it serves as a full showcase of my work in game development and horror design.
+This game was a **non-commercial student project**. It was never released due to use of unlicensed assets and being rough around the edges, but it serves as a full showcase of my work in game development and horror design.
