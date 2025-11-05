@@ -1,4 +1,4 @@
-# 🟨 Backrooms – UE4 Horror Game  
+# Backrooms – UE4 Horror Game  
 *Graduation Project (2022/2023)*
 
 Inspired by the Backrooms internet lore: endless yellow halls, strange entities, and the illusion of escape.  
@@ -8,7 +8,7 @@ This game was created solo in Unreal Engine 4 using Blueprints and free assets.
 
 ---
 
-## 📜 Story Summary
+## Story Summary
 
 - Player must escape **5 levels** of the Backrooms.
 - Each level contains **letters** (9 total) with clues and hidden messages by the author to help the player escape.
@@ -16,7 +16,7 @@ This game was created solo in Unreal Engine 4 using Blueprints and free assets.
 
 ---
 
-## 🔽 Levels Breakdown
+## Levels Breakdown
 
 | Level                                | Preview                       |
 | ------------------------------------ | ----------------------------- |
@@ -29,7 +29,7 @@ This game was created solo in Unreal Engine 4 using Blueprints and free assets.
 
 ---
 
-## 🛠️ Technologies & Contributions
+## Technologies & Contributions
 
 - Engine: *Originally:* **Unreal Engine 4**, *Updated support for:* **Unreal Engine 5.3** (Blueprints only)
 - Assets: Free models (Sketchfab), Audio (Freesound)
@@ -38,6 +38,6 @@ This game was created solo in Unreal Engine 4 using Blueprints and free assets.
 
 ---
 
-## 🧠 Final Notes
+## Final Notes
 
 This game was a **non-commercial student project**. It was never released due to use of unlicensed assets, but it serves as a full showcase of my work in game development and horror design.
