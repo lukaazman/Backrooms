@@ -1,7 +1,7 @@
 # Backrooms: Stuck Inside – UE4 Horror Game  
 *Graduation Project (2022/2023)*
 
-https://github.com/user-attachments/assets/290b6742-4911-4eeb-952f-dfe140cca2ae
+https://github.com/user-attachments/assets/83d27e4f-fd1d-462b-849c-14b58deb13ec
 
 Inspired by the Backrooms internet lore: endless yellow halls, strange entities, and the illusion of escape.  
 This game was created solo in Unreal Engine 4 using Blueprints and free assets.
